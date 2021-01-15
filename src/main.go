@@ -20,7 +20,7 @@ func main() {
 	//define configuration
 	//getting user credentials
 	const (
-		host     = "localhost"
+		host     = "192.168.1.31"
 		port     = 5432
 		user     = "postgres"
 		password = "changeme"
